@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou trabalhando na [Seção Técnica de Informática - FFLCH da Universidade de São Paulo] (https://github.com/fflch/)
 
-- 🌱 Atualmente estou aprendendo PHP, Laravel e MySQL 
+- 🌱 Atualmente estou aprendendo PHP, Laravel, JavaScript e MySQL 
 
 - 📫 Como entrar em contato comigo gabrielareisg@hotmail.com 
 
